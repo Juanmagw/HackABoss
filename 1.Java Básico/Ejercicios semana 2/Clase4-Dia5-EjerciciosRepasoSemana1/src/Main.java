@@ -18,7 +18,7 @@ public class Main {
         }
 
         //C
-        //Cambio de las propiedades de dos elementos del vector verduras mostrando todos sus datos
+        //Cambio de las propiedades de dos elementos del vector verduras
         verduras[0].setId(6);
         verduras[0].setNombre("Pepinillo");
         verduras[0].setColor("Verde");
@@ -33,8 +33,19 @@ public class Main {
 
         System.out.println("\n");
 
+        //Muestra de todos los datos de los elementos del vector
         for(int i=0;i< verduras.length;i++){
             System.out.println(verduras[i].toString());
+        }
+
+        //D
+        System.out.println("\n");
+
+        //Muestra de todos los datos de los elementos del vector cuyo color es verde
+        for(int i=0;i< verduras.length;i++){
+            if(verduras[i].getColor().equalsIgnoreCase("verde")){
+                System.out.println(verduras[i].toString());
+            }
         }
     }
 }
