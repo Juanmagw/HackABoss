@@ -1,0 +1,10 @@
+juanmagw\hackaboss\clase10\dia11\ejercicios\persistencia\exceptions\NonexistentEntityException.class
+juanmagw\hackaboss\clase10\dia11\ejercicios\persistencia\exceptions\PreexistingEntityException.class
+juanmagw\hackaboss\clase10\dia11\ejercicios\resources\JakartaEE8Resource.class
+juanmagw\hackaboss\clase10\dia11\ejercicios\persistencia\ControladoraPersistencia.class
+juanmagw\hackaboss\clase10\dia11\ejercicios\persistencia\VotoJpaController.class
+juanmagw\hackaboss\clase10\dia11\ejercicios\JakartaRestConfiguration.class
+juanmagw\hackaboss\clase10\dia11\ejercicios\logica\Controladora.class
+juanmagw\hackaboss\clase10\dia11\ejercicios\servlets\VotoSv.class
+juanmagw\hackaboss\clase10\dia11\ejercicios\persistencia\exceptions\IllegalOrphanException.class
+juanmagw\hackaboss\clase10\dia11\ejercicios\logica\Voto.class
